@@ -22,7 +22,7 @@ const initialState = {
             "duration": 164,
             "cover": "https://picon.ngfiles.com/891000/flash_891855_card.webp?f1689700939",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/tm5PgRcuKUM"
         },
         {
             "id": 3,
@@ -33,9 +33,9 @@ const initialState = {
             "year": 2002,
             "contentRating": "16+",
             "duration": 137,
-            "cover": "http://dummyimage.com/800x600.png/302140/ffffff",
+            "cover": "https://i.ytimg.com/vi/JfFEWkHXq6o/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLA-EKTMohPK9mlyzIU9_U1FxdhOWw",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://www.youtube.com/shorts/HOKtXfcgzl8?feature=share"
         },
         {
             "id": 4,
@@ -46,7 +46,7 @@ const initialState = {
             "year": 2014,
             "contentRating": "16+",
             "duration": 163,
-            "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
+            "cover": "https://i.ytimg.com/vi/VhyNHVTsOOI/hq720_2.jpg?sqp…AHAAQbQAQE=&rs=AOn4CLAGEUqfpexZRZ3AebVuFmHkjDyUrw",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
             "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
         },
