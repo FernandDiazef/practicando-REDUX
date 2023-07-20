@@ -94,15 +94,15 @@ const initialState = {
         {
             "id": 8,
             "slug": "tvshow-8",
-            "title": "Stargate Atlantis",
+            "title": "Stargazing With Murderous Intent [lofi/chill beats]",
             "type": "Action",
             "language": "English",
             "year": 2012,
             "contentRating": "16+",
             "duration": 148,
-            "cover": "http://dummyimage.com/800x600.png/306880/ffffff",
+            "cover": "https://i.ytimg.com/vi/srhTqupfGyQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8k_jFnrHRw-XadIpRlqX8crS7Uw",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/srhTqupfGyQ"
         },
         {
             "id": 9,
@@ -152,7 +152,7 @@ const initialState = {
             "year": 2018,
             "contentRating": "16+",
             "duration": 190,
-            "cover": "http://dummyimage.com/800x600.png/577380/ffffff",
+            "cover": "https://i.ytimg.com/vi/UGa8eReR_ns/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2ayRwE_fjvRREL_GUmpO6wCsgXw",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
             "source": "https://youtu.be/UGa8eReR_ns"
         },
