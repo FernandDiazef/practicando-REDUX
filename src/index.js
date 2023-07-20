@@ -27,67 +27,67 @@ const initialState = {
         {
             "id": 3,
             "slug": "tvshow-3",
-            "title": "Instinct",
+            "title": "PUNCH PUNCH FOREVER!",
             "type": "Adventure",
             "language": "English",
             "year": 2002,
             "contentRating": "16+",
             "duration": 137,
-            "cover": "https://i.ytimg.com/vi/JfFEWkHXq6o/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLA-EKTMohPK9mlyzIU9_U1FxdhOWw",
+            "cover": "https://picon.ngfiles.com/891000/flash_891548_card.webp?f1689447667",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://www.youtube.com/shorts/HOKtXfcgzl8?feature=share"
+            "source": "https://youtu.be/8ndBoc6R8_A"
         },
         {
             "id": 4,
             "slug": "tvshow-4",
-            "title": "Grand Hotel",
+            "title": "62 bits-Cupsouls",
             "type": "Comedy",
             "language": "English",
             "year": 2014,
             "contentRating": "16+",
             "duration": 163,
-            "cover": "https://i.ytimg.com/vi/VhyNHVTsOOI/hq720_2.jpg?sqp…AHAAQbQAQE=&rs=AOn4CLAGEUqfpexZRZ3AebVuFmHkjDyUrw",
+            "cover": "https://picon.ngfiles.com/702000/flash_702515_card.png?f1601494932",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/FBE8sh7nv4s"
         },
         {
             "id": 5,
             "slug": "tvshow-5",
-            "title": "Stargate Atlantis",
+            "title": "64 Bits - Shovel Knight Dimensions",
             "type": "Scripted",
             "language": "English",
             "year": 2014,
             "contentRating": "16+",
             "duration": 194,
-            "cover": "http://dummyimage.com/800x600.png/B36F20/ffffff",
+            "cover": "https://picon.ngfiles.com/767000/flash_767211_card.png?f1601403802",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/oMbp1piXFLs"
         },
         {
             "id": 6,
             "slug": "tvshow-6",
-            "title": "Final Space",
+            "title": "Porkchop 'n Flatscreen! (Episode 2)",
             "type": "Scripted",
             "language": "English",
             "year": 2017,
             "contentRating": "16+",
             "duration": 124,
-            "cover": "http://dummyimage.com/800x600.png/CCC539/ffffff",
+            "cover": "https://i.ytimg.com/vi/KvEVyUnzI2U/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBiMfyB6BRqGO3xyaxrV0_KD2WLTQ",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/KvEVyUnzI2U"
         },
         {
             "id": 7,
             "slug": "tvshow-7",
-            "title": "The InBetween",
+            "title": "How To Fix a Water Damaged Laptop",
             "type": "Drama",
             "language": "English",
             "year": 2011,
             "contentRating": "16+",
             "duration": 179,
-            "cover": "http://dummyimage.com/800x600.png/FF7A90/ffffff",
+            "cover": "https://i.ytimg.com/vi/115amzVdV44/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBaQthS2AekPCRuSjX_CFgQ-AGz8w",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/115amzVdV44"
         }
     ],
     "originals": [
@@ -107,46 +107,46 @@ const initialState = {
         {
             "id": 9,
             "slug": "tvshow-9",
-            "title": "Alien Highway",
+            "title": "How To Fix a Cracked iPhone Screen",
             "type": "Action",
             "language": "English",
             "year": 2019,
             "contentRating": "16+",
             "duration": 128,
-            "cover": "http://dummyimage.com/800x600.png/604180/ffffff",
+            "cover": "https://i.ytimg.com/vi/3t678W5zfMA/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLAZRbxjcv4gqQgkaP8QLxqQJCkbEA",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/3t678W5zfMA"
         },
         {
             "id": 10,
             "slug": "tvshow-10",
-            "title": "Elementary",
+            "title": "How To Feed a Baby",
             "type": "Animation",
             "language": "English",
             "year": 2011,
             "contentRating": "16+",
             "duration": 346,
-            "cover": "http://dummyimage.com/800x600.png/FF91BA/ffffff",
+            "cover": "https://i.ytimg.com/vi/z3jE7ZoTp-I/hqdefault.jpg?s…RhlIEQoRTAP&rs=AOn4CLA4J7hbU6th8aUHacYn_IemMahErg",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/z3jE7ZoTp-I"
         },
         {
             "id": 11,
             "slug": "tvshow-11",
-            "title": "Strange Angel",
+            "title": "The Maker",
             "type": "War",
             "language": "English",
             "year": 2015,
             "contentRating": "16+",
             "duration": 226,
-            "cover": "http://dummyimage.com/800x600.png/45807C/ffffff",
+            "cover": "https://i.ytimg.com/vi/YDXOioU_OKM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCiMdIzYWrkF7mmZDG88aMC_QFaUg",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/YDXOioU_OKM"
         },
         {
             "id": 12,
             "slug": "tvshow-12",
-            "title": "Private Eyes",
+            "title": "CliffSide",
             "type": "Comedy",
             "language": "English",
             "year": 2018,
@@ -154,20 +154,20 @@ const initialState = {
             "duration": 190,
             "cover": "http://dummyimage.com/800x600.png/577380/ffffff",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/UGa8eReR_ns"
         },
         {
             "id": 13,
             "slug": "tvshow-13",
-            "title": "NCIS: Los Angeles",
+            "title": "THE AMAZING DIGITAL CIRCUS (teaser)",
             "type": "Drama",
             "language": "English",
             "year": 2010,
             "contentRating": "16+",
             "duration": 160,
-            "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
+            "cover": "https://i.ytimg.com/vi/9FY0Pt9fyxY/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCPQTuNTxsCTQW9uFYLrhLGvCPA1Q",
             "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+            "source": "https://youtu.be/9FY0Pt9fyxY"
         }
     ]
 }
