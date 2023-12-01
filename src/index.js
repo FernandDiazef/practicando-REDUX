@@ -177,7 +177,7 @@ const composeEnharcers = window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_D
 const store = createStore(reducer, initialState, composeEnharcers);
 
 ReactDOM.render(
-    <Provider store={store}>
-        <App />
-    </Provider>
-    , document.getElementById('app'));
+  <Provider store={store}>
+    <App />
+  </Provider>
+  , document.getElementById('app'));

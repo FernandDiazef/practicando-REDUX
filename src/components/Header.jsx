@@ -5,7 +5,6 @@ import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import gravatar from '../utils/gravatar'
 import '../assets/styles/components/Header.scss';
-import logo from '../assets/static/logo-platzi-video-BW2.png';
 import userIcon from '../assets/static/user-icon.png';
 import { logoutRequest } from '../Actions'
 
@@ -28,8 +27,9 @@ const Header = props => {
       <Link to="/">
         <img
           className="header__img"
-          src={logo}
-          alt="Platzi Video" />
+          style={{height: "5em", width: "5em"}}
+          src={"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Media_Player_Windows_11_logo.svg/1024px-Media_Player_Windows_11_logo.svg.png"}
+          alt="player Video" />
       </Link>
 
       <div className="header__menu">
